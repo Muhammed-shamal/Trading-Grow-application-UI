@@ -1,0 +1,39 @@
+.itm1 {
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-top: 1.3em;
+  border-radius: 4px;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 10px;
+}
+
+.itm1 .name {
+  color: #44475b;
+  font-weight: 535;
+  font-size: 0.8rem;
+}
+
+.itm1 .price {
+  color: #44475b;
+  font-size: 0.875rem;
+  font-weight: 535;
+}
+
+.product-tools {
+  font-size: 2rem;
+  color: #00b386;
+  margin-bottom: 3px;
+}
+.product-text {
+  margin-top: 7px;
+  color: #44475b;
+  font-weight: 600;
+  font-size: 0.7rem;
+  text-transform: capitalize;
+}
+
+.itm {
+  cursor: pointer;
+  margin-top: 1.4rem;
+  justify-content: center;
+}

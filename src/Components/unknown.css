@@ -1,0 +1,42 @@
+.homeHero_heading {
+  font-size: 96px;
+  line-height: 96px;
+  color: #5a5555;
+  margin-bottom: 0.3em;
+}
+
+.homeHero_subHeading {
+  font-weight: 535;
+  font-size: 1.5rem;
+  color: #7c7e8c;
+}
+
+.body-part {
+  text-align: center;
+  padding: 1em;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* 
+(max-width: 1200px)
+<style>
+.homeHero_heading__x5Dvc {
+    width: 837px;
+    margin-top: 48px; */
